@@ -11,3 +11,11 @@
 3、STL容器里begin和end返回的是迭代器 rbegin、front、back返回的不是迭代器，而是元素的引用
 
 [(19条消息) vector中begin（），end（）和front（），back（）的区别_胡涂胡话的博客-CSDN博客_vector back](https://blog.csdn.net/weixin_40311211/article/details/81065786?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-1-81065786-blog-104417489.pc_relevant_vip_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-1-81065786-blog-104417489.pc_relevant_vip_default&utm_relevant_index=2)
+
+
+
+**992题：hard**
+
+1、这道题的思路有点东西的，把恰好转换为最多，**恰好有k个不同元素，转换为最多有k个元素-最多有k-1个元素**。
+
+2、就是双指针，这道题的双指针用的有点意思，不是寻常意义上理解的那种双指针，以及对返回值的处理都恰到好处，这道题值得好好学习。
